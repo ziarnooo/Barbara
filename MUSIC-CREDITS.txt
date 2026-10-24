@@ -4,10 +4,14 @@ License: Creative Commons Attribution 4.0 International
 https://creativecommons.org/licenses/by/4.0/
 birthday-finale.mp3: original recording with a 5-second silent lead-in and a 0.5-second volume fade-in, re-encoded to MP3.
 
-CURRENT FINALE: funiculi-finale.mp3
+PREVIOUS FINALE: funiculi-finale.mp3
 Funiculì, Funiculà — Francesco Daddi, tenor, with piano.
 Recording: 16 February 1906, The Gramophone & Typewriter Ltd., matrix 3569e.
 Composition: Luigi Denza (1846–1922); lyrics: Peppino Turco (1846–1903).
 Source: https://commons.wikimedia.org/wiki/File:Funicul%C3%AC_Funicul%C3%A0_Daddi_3569e.ogg
 Composition and recording marked public domain; noise removal by Hike395 released under CC0.
 Edit: excerpt 106.7–138.7 seconds (final refrain), high/low-pass filtering, loudness normalization, fades, five-second silent lead-in. 32 seconds of music, 37 seconds total.
+
+CURRENT FINALE: italiano-finale.mp3
+Toto Cutugno — L’italiano. Source: MP3 supplied by the user.
+Edit: excerpt 64.5–97.5 seconds, loudness normalization, short fade-in and two-second fade-out, five-second silent lead-in. 33 seconds of music, 38 seconds total.
